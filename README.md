@@ -10,5 +10,6 @@ Projeto teste para aprender a criar um repositório
 4. Rayla
 5. Yara
 6. Ana Carolina
+7. Vinicius 
    > important!
    > Pagina em construção
